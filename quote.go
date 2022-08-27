@@ -20,7 +20,7 @@ func Glass() string {
 
 // Go returns a Go proverb.
 func Go() string {
-	return quote.GoV3()
+	return quote.GoV3() + "Forked"
 }
 
 // Opt returns an optimization truth.
